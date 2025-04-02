@@ -1,8 +1,11 @@
 ---
 sidebar_position: 2
+id: tos
+title: Terms of Service
+slug: /tos
 ---
 
-# Translate your site
+# Terms of service
 
 Let's translate `docs/intro.md` to French.
 

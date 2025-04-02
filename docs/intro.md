@@ -1,8 +1,10 @@
 ---
 sidebar_position: 1
+id: index
+slug: /
 ---
 
-# Tutorial Intro
+# Our Legal docs
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
