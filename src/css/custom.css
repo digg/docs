@@ -25,3 +25,13 @@
   --ifm-color-primary-lighter: #5686e3;
   --ifm-color-primary-lightest: #799fe9;
 }
+
+/* Light mode: keep original black logo */
+[data-theme='light'] .navbar__logo img {
+  filter: none;
+}
+
+/* Dark mode: invert the logo to make it white */
+[data-theme='dark'] .navbar__logo img {
+  filter: invert(1) brightness(1.5);
+}
