@@ -42,58 +42,38 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/-e84": {
+  "/-261": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-d2f": {
+  "/-5e8": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-7de": {
+  "/-b47": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/category/tutorial---basics-d94": {
+  "/category/community-593": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-tutorial-basicsa-30-524"
+    "__props": "__props---category-community-837-b79"
   },
-  "/category/tutorial---extras-681": {
+  "/category/legal-7cf": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-tutorial-extrasbaa-1c5"
+    "__props": "__props---category-legal-1-ed-3db"
   },
-  "/tos-701": {
+  "/privacy-dd5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tosf-20-3ff"
+    "content": "content---d-2-c-d19"
   },
-  "/tutorial-basics/congratulations-e78": {
+  "/rules-351": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-congratulations-822-79f"
+    "content": "content---terms-816-638"
   },
-  "/tutorial-basics/create-a-blog-post-594": {
+  "/terms-021": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-create-a-blog-post-533-8b3"
-  },
-  "/tutorial-basics/create-a-document-843": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-create-a-document-1-e-4-f30"
-  },
-  "/tutorial-basics/create-a-page-168": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-create-a-page-5-c-8-d8b"
-  },
-  "/tutorial-basics/deploy-your-site-a31": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-deploy-your-sitef-55-bcd"
-  },
-  "/tutorial-basics/markdown-features-b36": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-basics-markdown-features-18-c-d7b"
-  },
-  "/tutorial-extras/manage-docs-versions-3b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tutorial-extras-manage-docs-versionsdff-033"
+    "content": "content---733-a2d"
   },
   "/-fc9": {
     "__comp": "__comp---theme-doc-item-178-a40",

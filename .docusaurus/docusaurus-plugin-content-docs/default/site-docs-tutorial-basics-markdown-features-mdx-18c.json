@@ -16,11 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Blog Post",
-    "permalink": "/tutorial-basics/create-a-blog-post"
-  },
-  "next": {
-    "title": "Deploy your site",
-    "permalink": "/tutorial-basics/deploy-your-site"
+    "title": "Rules",
+    "permalink": "/category/rules"
   }
 }

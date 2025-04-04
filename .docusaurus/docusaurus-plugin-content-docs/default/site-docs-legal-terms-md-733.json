@@ -1,0 +1,28 @@
+{
+  "id": "legal/terms",
+  "title": "Terms of Service",
+  "description": "Date of Last Revision : [_____], 2025",
+  "source": "@site/docs/legal/terms.md",
+  "sourceDirName": "legal",
+  "slug": "/terms",
+  "permalink": "/terms",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "id": "terms",
+    "slug": "/terms"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Legal",
+    "permalink": "/category/legal"
+  },
+  "next": {
+    "title": "Privacy Policy",
+    "permalink": "/privacy"
+  }
+}

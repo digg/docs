@@ -11,58 +11,33 @@
           "mainDocId": "index",
           "docs": [
             {
+              "id": "community/rules",
+              "path": "/rules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "index",
               "path": "/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/tutorial-basics/congratulations",
+              "id": "legal/privacy",
+              "path": "/privacy",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/tutorial-basics/create-a-blog-post",
+              "id": "legal/terms",
+              "path": "/terms",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/tutorial-basics/create-a-document",
+              "id": "/category/community",
+              "path": "/category/community",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/tos",
-              "path": "/tos",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---basics",
-              "path": "/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/category/tutorial---extras",
+              "id": "/category/legal",
+              "path": "/category/legal",
               "sidebar": "tutorialSidebar"
             }
           ],

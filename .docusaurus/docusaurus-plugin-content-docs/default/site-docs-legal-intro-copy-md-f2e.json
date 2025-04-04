@@ -1,9 +1,9 @@
 {
-  "id": "index",
+  "id": "legal/index",
   "title": "Welcome to Digg Docs!",
   "description": "Your source for Digg rules, terms of service, our privacy policy, and more.",
-  "source": "@site/docs/intro.md",
-  "sourceDirName": ".",
+  "source": "@site/docs/legal/intro copy.md",
+  "sourceDirName": "legal",
   "slug": "/",
   "permalink": "/",
   "draft": false,
@@ -17,8 +17,8 @@
     "slug": "/"
   },
   "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "Community",
-    "permalink": "/category/community"
+  "previous": {
+    "title": "Tutorial - Extras",
+    "permalink": "/category/tutorial---extras"
   }
 }
