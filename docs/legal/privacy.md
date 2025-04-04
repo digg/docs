@@ -6,7 +6,7 @@ slug: /privacy
 
 # Privacy Policy
 
-**Effective Date:** March 8, 2025
+**Effective Date:** April 1, 2025
 
 This Privacy Policy describes how Digg, Inc. (“Digg”, “we”, “us”, or “our”) handles personal information that we collect through our website or through any other websites that we own or control and that link to this Privacy Policy.
 
