@@ -20,7 +20,7 @@ const config: Config = {
   projectName: 'docs', // Usually your repo name.
 
   deploymentBranch: 'deployment',
-  trailingSlash: 'false',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
