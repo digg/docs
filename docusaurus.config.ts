@@ -6,11 +6,10 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Digg Docs',
-  tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://docs.digg.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -50,7 +49,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/digg-docs-social-card.jpg',
     navbar: {
       title: 'Docs',
       logo: {
@@ -59,44 +58,8 @@ const config: Config = {
       },
     },
     footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Legal',
-          items: [
-            {
-              label: 'Terms of Service',
-              to: '/terms',
-            },
-            {
-              label: 'Privacy Policy',
-              to: '/privacy',
-            }
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Rules',
-              to: '/rules',
-            }
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'digg.com',
-              to: 'https://www.digg.com',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/digg/docs',
-            },
-          ],
-        },
-      ],
+      style: 'light',
+      links: [],
       copyright: `Copyright © ${new Date().getFullYear()} Digg, Inc.`,
     },
     prism: {

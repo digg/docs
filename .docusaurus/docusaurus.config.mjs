@@ -5,9 +5,8 @@
  */
 export default {
   "title": "Digg Docs",
-  "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://docs.digg.com",
   "baseUrl": "/",
   "organizationName": "digg",
   "projectName": "docs",
@@ -38,7 +37,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/digg-docs-social-card.jpg",
     "navbar": {
       "title": "Docs",
       "logo": {
@@ -49,51 +48,15 @@ export default {
       "items": []
     },
     "footer": {
-      "style": "dark",
-      "links": [
-        {
-          "title": "Legal",
-          "items": [
-            {
-              "label": "Terms of Service",
-              "to": "/terms"
-            },
-            {
-              "label": "Privacy Policy",
-              "to": "/privacy"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Rules",
-              "to": "/rules"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "digg.com",
-              "to": "https://www.digg.com"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/digg/docs"
-            }
-          ]
-        }
-      ],
+      "style": "light",
+      "links": [],
       "copyright": "Copyright © 2025 Digg, Inc."
     },
     "prism": {
       "theme": {
         "plain": {
           "color": "#393A34",
-          "backgroundColor": "#f6f8fa"
+          "backgroundColor": "#FFFFFF"
         },
         "styles": [
           {
@@ -344,6 +307,7 @@ export default {
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],
+  "tagline": "",
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {
