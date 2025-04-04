@@ -62,29 +62,25 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Digg Docs',
+          title: 'Legal',
           items: [
             {
               label: 'Terms of Service',
-              to: '/tos',
+              to: '/terms',
             },
+            {
+              label: 'Privacy Policy',
+              to: '/privacy',
+            }
           ],
         },
         {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
+              label: 'Rules',
+              to: '/rules',
+            }
           ],
         },
         {
