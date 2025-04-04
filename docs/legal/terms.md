@@ -6,7 +6,7 @@ slug: /terms
 
 # Terms of Service
 
-**Date of Last Revision** **:** **[_____], 2025**
+**Date of Last Revision** **:** **April 1, 2025**
 
 
 
