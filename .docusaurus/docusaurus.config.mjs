@@ -58,7 +58,7 @@ export default {
       "theme": {
         "plain": {
           "color": "#393A34",
-          "backgroundColor": "#FFFFFF"
+          "backgroundColor": "#f6f8fa"
         },
         "styles": [
           {
