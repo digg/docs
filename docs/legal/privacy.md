@@ -10,7 +10,7 @@ slug: /privacy
 
 This Privacy Policy describes how Digg, Inc. (“**Digg**,” “**we**,” “**us**,” or “**our**”) handles personal information that we collect through our website or through any other websites that we own or control and that link to this Privacy Policy (collectively, the “**Service**” or “**Services**”).
 
-Please see our **Privacy Snapshot** below for a high-level overview of our privacy practices.
+Please see our **[Privacy Snapshot](#snapshot)** below for a high-level overview of our privacy practices.
 
 **Personal information we collect**
 
@@ -181,7 +181,7 @@ Digg, Inc.
 2261 Market Street, Suite 86456  
 San Francisco, CA 94114
 
-**Privacy Snapshot**
+### Privacy Snapshot {#snapshot}
 
 Below is a high-level snapshot of how we collect, use, and disclose your personal information when you use the Service, but you need to read the entire Privacy Policy for complete information.
 
