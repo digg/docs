@@ -20,5 +20,9 @@
   "previous": {
     "title": "Terms of Service",
     "permalink": "/terms"
+  },
+  "next": {
+    "title": "Help Center",
+    "permalink": "/category/help-center"
   }
 }

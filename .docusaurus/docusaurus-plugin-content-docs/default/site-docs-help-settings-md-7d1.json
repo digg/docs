@@ -1,0 +1,24 @@
+{
+  "id": "help/delete-account",
+  "title": "How To Deleted Your Digg Account",
+  "description": "",
+  "source": "@site/docs/help/settings.md",
+  "sourceDirName": "help",
+  "slug": "/delete-account",
+  "permalink": "/delete-account",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "id": "delete-account",
+    "slug": "/delete-account"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Help Center",
+    "permalink": "/category/help-center"
+  }
+}

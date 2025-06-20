@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "help/delete-account",
+              "path": "/delete-account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "index",
               "path": "/",
               "sidebar": "tutorialSidebar"
@@ -38,6 +43,11 @@
             {
               "id": "/category/legal",
               "path": "/category/legal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/help-center",
+              "path": "/category/help-center",
               "sidebar": "tutorialSidebar"
             }
           ],

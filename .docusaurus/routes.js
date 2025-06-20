@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '261'),
+    component: ComponentCreator('/', '8af'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '5e8'),
+        component: ComponentCreator('/', 'c19'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'b47'),
+            component: ComponentCreator('/', '32b'),
             routes: [
               {
                 path: '/category/community',
@@ -56,8 +56,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/category/help-center',
+                component: ComponentCreator('/category/help-center', '208'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/category/legal',
                 component: ComponentCreator('/category/legal', '7cf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/delete-account',
+                component: ComponentCreator('/delete-account', 'dce'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
