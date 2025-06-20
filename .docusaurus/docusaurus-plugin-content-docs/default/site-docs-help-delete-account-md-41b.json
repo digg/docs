@@ -1,7 +1,7 @@
 {
   "id": "help/delete-account",
-  "title": "What Happens When You Delete Your Account",
-  "description": "When you delete your account:",
+  "title": "How To Deleted Your Digg Account",
+  "description": "To delete your account:",
   "source": "@site/docs/help/delete-account.md",
   "sourceDirName": "help",
   "slug": "/delete-account",
