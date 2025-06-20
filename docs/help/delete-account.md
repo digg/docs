@@ -9,7 +9,7 @@ slug: /delete-account
 To delete your account:
 
 1. Tap ≡ in the top left corner of the app
-2. Tap to Settings
+2. Tap Settings
 3. Tap Delete Account
 4. Tap "Yes, delete my account"
 
