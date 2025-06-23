@@ -4,7 +4,7 @@ id: delete-account
 slug: /delete-account
 ---
 
-# How To Deleted Your Digg Account
+# How To Delete Your Digg Account
 
 To delete your account:
 
