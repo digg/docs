@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '2bc'),
+    component: ComponentCreator('/', '81a'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '4ac'),
+        component: ComponentCreator('/', 'e88'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '6e0'),
+            component: ComponentCreator('/', 'b79'),
             routes: [
               {
                 path: '/category/community',
@@ -75,7 +75,7 @@ export default [
               },
               {
                 path: '/help',
-                component: ComponentCreator('/help', 'd85'),
+                component: ComponentCreator('/help', '996'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
