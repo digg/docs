@@ -8,7 +8,8 @@ slug: /help
 
 **On Mobile**
 
-- Tap ≡ in the top left corner of the app and select Support or shake your device to get help or share feedback
+- Tap ≡ in the top left corner of the app and select Support
+- Shake your device to get help or share feedback
 
 **On Desktop**
 
