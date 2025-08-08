@@ -2,7 +2,7 @@
   "id": "help/delete-account",
   "title": "How To Delete Your Digg Account",
   "description": "To delete your account:",
-  "source": "@site/docs/help/delete-account.md",
+  "source": "@site/docs/help/delete-account copy.md",
   "sourceDirName": "help",
   "slug": "/delete-account",
   "permalink": "/delete-account",
@@ -22,7 +22,7 @@
     "permalink": "/category/help-center"
   },
   "next": {
-    "title": "How To Contact Us",
-    "permalink": "/help"
+    "title": "How To Delete Your Digg Account",
+    "permalink": "/delete-account"
   }
 }
