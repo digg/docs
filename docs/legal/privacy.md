@@ -104,6 +104,25 @@ You will provide personal information directly to us in the United States. We ma
 
 When we engage in cross-border data transfers, we will ensure that relevant safeguards are in place to afford adequate protection for personal information and we will comply with applicable data protection laws, in particular by relying on an EU Commission or UK government adequacy decision or on contractual protections for the transfer of personal information. For more information about how we transfer personal information internationally, please contact us as set out in the “How to contact us” section below.
 
+**Representatives for Data Protection Matters**
+
+**European Union Representative.** Pursuant to Article 27 of the General Data Protection Regulation (GDPR), Digg, Inc. has appointed the European Data Protection Office (EDPO) as its GDPR Representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR:
+
+- By using EDPO's online request form: https://edpo.com/gdpr-data-request
+- By writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium
+
+**United Kingdom Representative.** Pursuant to Article 27 of the UK GDPR, Digg, Inc. has appointed EDPO UK Ltd as its UK GDPR representative in the UK. You can contact EDPO UK regarding matters pertaining to the UK GDPR:
+
+- By using EDPO's online request form: https://edpo.com/uk-gdpr-data-request
+- By writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom
+
+**Digital Services Act Representative.** Pursuant to Article 13 of the DSA, Digg, Inc. has appointed EDSR as its legal representative. You can contact EDSR, in English or French, regarding matters pertaining to the DSA:
+
+- By email at [dsa@edsr.eu](mailto:privacy@digg.com)
+- By writing to EDSR at Avenue Huart Hamoir 71, 1030 Brussels, Belgium
+- By phone at +32 2 216 19 71
+
+
 **Your choices**
 
 **Account Deletion.** Should you ever decide to delete your account, you may do so by visiting your account settings page. If you delete your account, any association between your account and information stored by, or in connection with, Digg will no longer be accessible. However, given the nature of sharing using Digg, any public activity on your account prior to deletion will remain stored on our servers and will remain accessible to the public. Digg will remove the username associated with the deleted account to anonymize the link between the content and the original poster but will not anonymize personal information contained in the content itself. After you submit a request to delete your account, it may take up to 90 days for our purge script to complete deletion.
@@ -122,7 +141,7 @@ When we engage in cross-border data transfers, we will ensure that relevant safe
 - **object** to how we are using your personal information
 - **withdraw** your consent to us handling your personal information
 
-To make a request, please email us or write to us as provided in the “How to contact us” section below. Please note that, prior to any response to the exercise of such rights, we may require you to verify your identity. Depending on where you reside, you may be entitled to empower an “authorized agent” to submit requests on your behalf. We will require authorized agents to confirm their identity and authority, in accordance with applicable laws. You are entitled to exercise the rights described above free from discrimination. In addition, we may have valid legal reasons to refuse your request, and will inform you if that is the case.
+To make a request, please email us or write to us as provided in the “How to contact us” section below. If you are located in the EU or UK, you may also contact our data protection representatives as described in the 'Representatives for Data Protection Matters' section above. Please note that, prior to any response to the exercise of such rights, we may require you to verify your identity. Depending on where you reside, you may be entitled to empower an “authorized agent” to submit requests on your behalf. We will require authorized agents to confirm their identity and authority, in accordance with applicable laws. You are entitled to exercise the rights described above free from discrimination. In addition, we may have valid legal reasons to refuse your request, and will inform you if that is the case.
 
 **Limits on your privacy rights and choices.** In some instances, your choices may be limited, such as where fulfilling your request would impair the rights of others, our ability to provide a service you have requested, or our ability to comply with our legal obligations and enforce our legal rights. If you are not satisfied with how we address your request, you may submit a complaint by contacting us as provided in the “How to Contact Us” section below.
 
@@ -180,6 +199,12 @@ Digg, Inc. is the entity responsible for your personal information, as the contr
 Digg, Inc.
 2261 Market Street, Suite 86456  
 San Francisco, CA 94114
+
+EU and UK residents may also contact our appointed representatives:
+- EU matters: EDPO at https://edpo.com/gdpr-data-request
+- UK matters: EDPO UK at https://edpo.com/uk-gdpr-data-request
+- DSA matters: EDSR at [dsa@edsr.eu](mailto:privacy@digg.com)
+
 
 ### Privacy Snapshot {#snapshot}
 
