@@ -13,7 +13,7 @@ That said, stagnation in thinking will be the death of us, so we're here to list
 We're excited to see what we'll build together with those who share our vision for more meaningful connection.
 
 ### 1. Respect Your Fellow Human
-Our communities thrive when everyone can participate in a safe environment where healthy disagreement coexists with mutual respect. No harassment, bullying, hate speech, doxxing, or discrimination. Content targeting people based on their identity or engaging in persistent negative behavior toward individuals or groups is prohibited.
+Our communities thrive when everyone can participate in a safe environment where healthy disagreement coexists with mutual respect. No harassment, bullying, hate speech, doxxing, discrimination, or advocating for violence. Content targeting people based on their identity or engaging in persistent negative behavior toward individuals or groups is prohibited.
 
 ### 2. Stay Legal
 Operating within legal boundaries protects our community and ensures our platform's continued existence. Don't post, share, or coordinate anything that breaks the law. Illegal content or activities violate our [Terms of Service](#).
