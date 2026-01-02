@@ -16,7 +16,7 @@ We're excited to see what we'll build together with those who share our vision f
 Our communities thrive when everyone can participate in a safe environment where healthy disagreement coexists with mutual respect. No harassment, bullying, hate speech, doxxing, discrimination, or advocating for violence. Content targeting people based on their identity or engaging in persistent negative behavior toward individuals or groups is prohibited.
 
 ### 2. Stay Legal
-Operating within legal boundaries protects our community and ensures our platform's continued existence. Don't post, share, or coordinate anything that breaks the law. Illegal content or activities violate our [Terms of Service](#).
+Operating within legal boundaries protects our community and ensures our platform's continued existence. Don't post, share, or coordinate anything that breaks the law. Illegal content or activities violate our [Terms of Service](https://docs.digg.com/terms).
 
 ### 3. Protect Kids
 Safeguarding minors is a non-negotiable responsibility we all share. Don't share or encourage any sexual, abusive, or suggestive content involving people under 18. All predatory behavior involving minors is prohibited without exception.
