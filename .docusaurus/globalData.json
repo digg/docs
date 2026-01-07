@@ -37,7 +37,7 @@
             },
             {
               "id": "legal/libraries/web",
-              "path": "/libraries/web",
+              "path": "/legal/libraries/web",
               "sidebar": "tutorialSidebar"
             },
             {

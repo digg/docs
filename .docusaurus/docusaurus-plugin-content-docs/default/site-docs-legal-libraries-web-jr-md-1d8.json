@@ -1,7 +1,7 @@
 {
   "id": "legal/libraries/webjr",
   "title": "Web Jr.™ (Mobile Web)",
-  "description": "@corvu/otp-field",
+  "description": "---",
   "source": "@site/docs/legal/libraries/web jr.md",
   "sourceDirName": "legal/libraries",
   "slug": "/libraries/webjr",
@@ -22,7 +22,7 @@
     "permalink": "/libraries/mobile"
   },
   "next": {
-    "title": "Web",
-    "permalink": "/libraries/web"
+    "title": "web",
+    "permalink": "/legal/libraries/web"
   }
 }

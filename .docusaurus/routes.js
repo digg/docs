@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '0ff'),
+    component: ComponentCreator('/', 'c5d'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '256'),
+        component: ComponentCreator('/', 'e8a'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '568'),
+            component: ComponentCreator('/', '4f7'),
             routes: [
               {
                 path: '/category/community',
@@ -86,14 +86,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/libraries/mobile',
-                component: ComponentCreator('/libraries/mobile', '82a'),
+                path: '/legal/libraries/web',
+                component: ComponentCreator('/legal/libraries/web', 'ef1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/libraries/web',
-                component: ComponentCreator('/libraries/web', '844'),
+                path: '/libraries/mobile',
+                component: ComponentCreator('/libraries/mobile', '82a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

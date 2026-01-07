@@ -1,21 +1,16 @@
 {
   "id": "legal/libraries/web",
-  "title": "Web",
-  "description": "@amplitude/analytics-browser",
+  "title": "web",
+  "description": "",
   "source": "@site/docs/legal/libraries/web.md",
   "sourceDirName": "legal/libraries",
-  "slug": "/libraries/web",
-  "permalink": "/libraries/web",
+  "slug": "/legal/libraries/web",
+  "permalink": "/legal/libraries/web",
   "draft": false,
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
-  "frontMatter": {
-    "sidebar_position": 4,
-    "id": "web",
-    "slug": "/libraries/web"
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Web Jr.™ (Mobile Web)",

@@ -6,6 +6,8 @@ slug: /libraries/web
 
 # Web
 
+---
+
 ## @amplitude/analytics-browser
 
 
