@@ -1,0 +1,23 @@
+{
+  "id": "legal/libraries/mobile_",
+  "title": "mobile_",
+  "description": "@amplitude/analytics-react-native",
+  "source": "@site/docs/legal/libraries/mobile_.md",
+  "sourceDirName": "legal/libraries",
+  "slug": "/legal/libraries/mobile_",
+  "permalink": "/legal/libraries/mobile_",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Web",
+    "permalink": "/libraries/web"
+  },
+  "next": {
+    "title": "web_",
+    "permalink": "/legal/libraries/web_"
+  }
+}

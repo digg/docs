@@ -31,6 +31,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "legal/libraries/mobile",
+              "path": "/libraries/mobile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "legal/libraries/web",
+              "path": "/libraries/web",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "legal/libraries/webjr",
+              "path": "/libraries/webjr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "legal/privacy",
               "path": "/privacy",
               "sidebar": "tutorialSidebar"
@@ -48,6 +63,11 @@
             {
               "id": "/category/legal",
               "path": "/category/legal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/libraries",
+              "path": "/category/libraries",
               "sidebar": "tutorialSidebar"
             },
             {

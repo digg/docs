@@ -42,17 +42,17 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/-81a": {
+  "/-0ff": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-e88": {
+  "/-256": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-b79": {
+  "/-568": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/category/community-593": {
@@ -67,6 +67,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---category-legal-1-ed-3db"
   },
+  "/category/libraries-31f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---category-librariesfe-9-3fc"
+  },
   "/delete-account-dce": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---delete-account-41-b-fbd"
@@ -74,6 +78,18 @@
   "/help-996": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---help-496-486"
+  },
+  "/libraries/mobile-82a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---privacy-180-3ca"
+  },
+  "/libraries/web-844": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---libraries-mobile-0-b-8-900"
+  },
+  "/libraries/webjr-fb3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---libraries-mobile-1-d-8-4cb"
   },
   "/privacy-dd5": {
     "__comp": "__comp---theme-doc-item-178-a40",

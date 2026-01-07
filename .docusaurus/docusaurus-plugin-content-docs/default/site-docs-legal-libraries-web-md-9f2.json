@@ -1,0 +1,23 @@
+{
+  "id": "legal/libraries/web_",
+  "title": "web_",
+  "description": "@amplitude/analytics-browser",
+  "source": "@site/docs/legal/libraries/web_.md",
+  "sourceDirName": "legal/libraries",
+  "slug": "/legal/libraries/web_",
+  "permalink": "/legal/libraries/web_",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Web",
+    "permalink": "/libraries/web"
+  },
+  "next": {
+    "title": "Help Center",
+    "permalink": "/category/help-center"
+  }
+}

@@ -52,7 +52,7 @@ export default {
     "footer": {
       "style": "light",
       "links": [],
-      "copyright": "Copyright © 2025 Digg, Inc."
+      "copyright": "Copyright © 2026 Digg, Inc."
     },
     "prism": {
       "theme": {

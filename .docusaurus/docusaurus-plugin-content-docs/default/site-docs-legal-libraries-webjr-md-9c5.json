@@ -1,0 +1,23 @@
+{
+  "id": "legal/libraries/webjr_",
+  "title": "webjr_",
+  "description": "@corvu/otp-field",
+  "source": "@site/docs/legal/libraries/webjr_.md",
+  "sourceDirName": "legal/libraries",
+  "slug": "/legal/libraries/webjr_",
+  "permalink": "/legal/libraries/webjr_",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Web",
+    "permalink": "/libraries/web"
+  },
+  "next": {
+    "title": "Help Center",
+    "permalink": "/category/help-center"
+  }
+}

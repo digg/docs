@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '81a'),
+    component: ComponentCreator('/', '0ff'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'e88'),
+        component: ComponentCreator('/', '256'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'b79'),
+            component: ComponentCreator('/', '568'),
             routes: [
               {
                 path: '/category/community',
@@ -68,6 +68,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/category/libraries',
+                component: ComponentCreator('/category/libraries', '31f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/delete-account',
                 component: ComponentCreator('/delete-account', 'dce'),
                 exact: true,
@@ -76,6 +82,24 @@ export default [
               {
                 path: '/help',
                 component: ComponentCreator('/help', '996'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/libraries/mobile',
+                component: ComponentCreator('/libraries/mobile', '82a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/libraries/web',
+                component: ComponentCreator('/libraries/web', '844'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/libraries/webjr',
+                component: ComponentCreator('/libraries/webjr', 'fb3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

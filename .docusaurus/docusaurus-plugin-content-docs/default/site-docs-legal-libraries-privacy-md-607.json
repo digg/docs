@@ -1,9 +1,9 @@
 {
-  "id": "legal/privacy",
+  "id": "legal/libraries/privacy",
   "title": "Privacy Policy",
   "description": "Effective Date: April 8, 2025",
-  "source": "@site/docs/legal/privacy.md",
-  "sourceDirName": "legal",
+  "source": "@site/docs/legal/libraries/privacy.md",
+  "sourceDirName": "legal/libraries",
   "slug": "/privacy",
   "permalink": "/privacy",
   "draft": false,
@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Terms of Service",
-    "permalink": "/terms"
+    "title": "Legal",
+    "permalink": "/category/legal-1"
   },
   "next": {
-    "title": "Libraries",
-    "permalink": "/category/libraries"
+    "title": "Terms of Service",
+    "permalink": "/terms"
   }
 }

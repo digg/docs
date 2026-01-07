@@ -1,0 +1,23 @@
+{
+  "id": "legal/libraries/mobile apps",
+  "title": "mobile apps",
+  "description": "@amplitude/analytics-react-native",
+  "source": "@site/docs/legal/libraries/mobile apps.md",
+  "sourceDirName": "legal/libraries",
+  "slug": "/legal/libraries/mobile apps",
+  "permalink": "/legal/libraries/mobile apps",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Privacy Policy",
+    "permalink": "/privacy"
+  },
+  "next": {
+    "title": "Terms of Service",
+    "permalink": "/terms"
+  }
+}

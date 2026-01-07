@@ -1,0 +1,28 @@
+{
+  "id": "legal/libraries/webjr",
+  "title": "Web Jr.™ (Mobile Web)",
+  "description": "@corvu/otp-field",
+  "source": "@site/docs/legal/libraries/web jr.md",
+  "sourceDirName": "legal/libraries",
+  "slug": "/libraries/webjr",
+  "permalink": "/libraries/webjr",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "id": "webjr",
+    "slug": "/libraries/webjr"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mobile",
+    "permalink": "/libraries/mobile"
+  },
+  "next": {
+    "title": "Web",
+    "permalink": "/libraries/web"
+  }
+}
