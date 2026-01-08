@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-id: rules
-slug: /rules
+id: guidelines
+slug: /guidelines
 ---
 
-# Rules
+# Guidelines
 
 At Digg, we're building communities that gather around shared interests. The internet has many platforms, and we've thoughtfully developed rules to help our community thrive. We believe in upholding a standard of integrity that sets us apart—which means Digg might not be for everyone, and we're okay with that.
 

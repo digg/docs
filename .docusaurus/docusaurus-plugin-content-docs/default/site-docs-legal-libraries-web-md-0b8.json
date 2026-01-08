@@ -1,16 +1,21 @@
 {
   "id": "legal/libraries/web",
-  "title": "web",
-  "description": "",
+  "title": "Web",
+  "description": "---",
   "source": "@site/docs/legal/libraries/web.md",
   "sourceDirName": "legal/libraries",
-  "slug": "/legal/libraries/web",
-  "permalink": "/legal/libraries/web",
+  "slug": "/libraries/web",
+  "permalink": "/libraries/web",
   "draft": false,
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "id": "web",
+    "slug": "/libraries/web"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Web Jr.™ (Mobile Web)",

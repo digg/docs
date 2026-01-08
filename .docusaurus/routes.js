@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'c5d'),
+    component: ComponentCreator('/', '6af'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'e8a'),
+        component: ComponentCreator('/', '5f4'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '4f7'),
+            component: ComponentCreator('/', '504'),
             routes: [
               {
                 path: '/category/community',
@@ -80,20 +80,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/guidelines',
+                component: ComponentCreator('/guidelines', '100'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/help',
                 component: ComponentCreator('/help', '996'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/legal/libraries/web',
-                component: ComponentCreator('/legal/libraries/web', 'ef1'),
+                path: '/libraries/mobile',
+                component: ComponentCreator('/libraries/mobile', '82a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/libraries/mobile',
-                component: ComponentCreator('/libraries/mobile', '82a'),
+                path: '/libraries/web',
+                component: ComponentCreator('/libraries/web', '844'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -106,12 +112,6 @@ export default [
               {
                 path: '/privacy',
                 component: ComponentCreator('/privacy', 'dd5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/rules',
-                component: ComponentCreator('/rules', '351'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

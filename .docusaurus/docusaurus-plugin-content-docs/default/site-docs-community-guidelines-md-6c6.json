@@ -2,7 +2,7 @@
   "id": "community/guidelines",
   "title": "Guidelines",
   "description": "At Digg, we're building communities that gather around shared interests. The internet has many platforms, and we've thoughtfully developed rules to help our community thrive. We believe in upholding a standard of integrity that sets us apart—which means Digg might not be for everyone, and we're okay with that.",
-  "source": "@site/docs/community/rules.md",
+  "source": "@site/docs/community/guidelines.md",
   "sourceDirName": "community",
   "slug": "/guidelines",
   "permalink": "/guidelines",

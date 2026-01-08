@@ -11,8 +11,8 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "community/rules",
-              "path": "/rules",
+              "id": "community/guidelines",
+              "path": "/guidelines",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -37,7 +37,7 @@
             },
             {
               "id": "legal/libraries/web",
-              "path": "/legal/libraries/web",
+              "path": "/libraries/web",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -18,7 +18,7 @@ We reserve the right, at our sole discretion, to change or modify portions of th
 
 **Your Privacy:** At Digg, we respect the privacy of our users. For more information please see our Privacy Policy, located at https://docs.digg.com/privacy and under the Privacy Policy section of our Mobile App (the “Privacy Policy”). By using the Service, you consent to our collection, use and disclosure of personal data and other data as outlined therein.
 
-**Additional Terms:** In addition, when using the Service, you will be subject to any additional terms applicable to the Service that may be posted on or within the Service from time to time, including the Community Rules, located at https://docs.digg.com/rules (the “Community Rules”).  All such terms are hereby incorporated by reference into these Terms of Service.
+**Additional Terms:** In addition, when using the Service, you will be subject to any additional terms applicable to the Service that may be posted on or within the Service from time to time, including the Community Guidelines, located at https://docs.digg.com/guidelines (the “Community Guidelines").  All such terms are hereby incorporated by reference into these Terms of Service.
 
 **Access and Use of the Service**
 
