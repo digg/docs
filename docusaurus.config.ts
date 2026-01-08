@@ -33,15 +33,6 @@ const config: Config = {
     locales: ['en'],
   },
 
-  plugins: [
-    [
-      '@docusaurus/plugin-client-redirects',
-      {
-        redirects: [{ from: '/rules', to: '/guidelines' }],
-      },
-    ],
-  ],
-
   presets: [
     [
       'classic',
