@@ -22,6 +22,19 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
+  "plugins": [
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        "redirects": [
+          {
+            "from": "/rules",
+            "to": "/guidelines"
+          }
+        ]
+      }
+    ]
+  ],
   "presets": [
     [
       "classic",
@@ -303,7 +316,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],
