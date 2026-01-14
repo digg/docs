@@ -6,7 +6,7 @@ slug: /privacy
 
 # Privacy Policy
 
-**Effective Date:** April 8, 2025
+**Effective Date:** January 13, 2025
 
 This Privacy Policy describes how Digg, Inc. (“**Digg**,” “**we**,” “**us**,” or “**our**”) handles personal information that we collect through our website or through any other websites that we own or control and that link to this Privacy Policy (collectively, the “**Service**” or “**Services**”).
 
@@ -22,7 +22,7 @@ Please see our **[Privacy Snapshot](#snapshot)** below for a high-level overview
 
 - **Visual and audio information**, such as photos, articles, videos, or other user-generated content that you upload or otherwise provide through Digg.
 
-- **Payment information** needed to complete your transactions with us, including name, payment card information, and billing information. Your payment card information is processed by our service providers which will handle your information in accordance with their own privacy policy. We do not have access to your full payment card information.
+- **Payment information** needed to complete your transactions with us, including name, and billing information. Payment card details are processed directly by our payment service providers in accordance with their own privacy policies, and we receive only limited information about your payment card (such as the card type and last four digits).
 
 - **Communications information**, such as data that we gather from you when you contact us with questions, feedback, or otherwise.
 
@@ -48,6 +48,8 @@ Please see our **[Privacy Snapshot](#snapshot)** below for a high-level overview
 
 - **Web beacons**, also known as pixel tags or clear GIFs, which are used to demonstrate that a webpage or email was accessed or opened, or that certain content was viewed or clicked.
 
+**European Users:** If you are located in the EU, UK, or Switzerland, please note that we rely on consent where required for the use of non-essential cookies and similar technologies and for interest-based advertising.
+
 **How we use your personal information**
 
 We use personal information for the following purposes or as otherwise described at the time of collection:
@@ -70,11 +72,11 @@ We use personal information for the following purposes or as otherwise described
 
 **For marketing and advertising.** We and our advertising partners may collect and use your personal information for marketing and advertising purposes, including:
 
-- **Direct marketing.** We may from time-to-time send you direct marketing communications as permitted by law, including, but not limited to, newsletters, and updates on news and events. You may opt out of our marketing emails as described in the “Opt out of marketing communications” section below.
+- **Direct marketing.** We may from time-to-time send you direct marketing communications as permitted by law, including, but not limited to, newsletters, and updates on news and events. You may opt out of our marketing emails as described in the “Opt out of marketing communications” section below, or by contacting us through the methods set forth herein.
 
 - **Interest-based advertising.** We may engage our advertising partners, including third-party advertising companies and social media companies, to display ads around the web. These companies may use cookies and similar technologies to collect information about your interaction over time across our website, our communications, and other online services, and use that information to serve online ads that they think will interest you. We may also share information about our users with these companies to facilitate interest-based advertising to those or similar users on other online platforms. You can learn more about your choices for limiting interest-based advertising in the “Limit online tracking” section below.
 
-Except where consent is required, we carry out marketing and advertising where it is in our legitimate business interests. Where we seek your consent, you may withdraw your consent at any time.
+Except where consent is required, we carry out marketing and advertising where it is in our legitimate business interests. Where we seek your consent, such as for European users, you may withdraw your consent at any time.
 
 **To comply with legal obligations and to defend Digg against legal claims or disputes.** We may use your personal information to comply with our legal obligations or when it is in our legitimate business interests, which includes to:
 
@@ -86,23 +88,23 @@ Except where consent is required, we carry out marketing and advertising where i
 
 **How we disclose your personal information**
 
-**Other users.** Digg is a social platform, and your information may be available to other users. This information can include attributes like your posts, user profile information, including the display name you select, the username you choose to use on Digg, avatars or images you elect to upload, and other information you enter on your profile (such as your bio), may be displayed to other users to facilitate user interaction within Digg. Where we offer direct messaging features between users, this also includes anything you may share in direct messages. Please be careful about how you configure your Digg settings, and what actions you take on Digg.
+**Other users.** Digg is a social platform, and your information may be available to other users. This information can include attributes like your posts, user profile information, including the display name you select, the username you choose to use on Digg, avatars or images you elect to upload, and other information you enter on your profile (such as your bio), may be displayed to other users to facilitate user interaction within Digg. Where we offer direct messaging features between users, this also includes anything you may share in direct messages. Please be careful about how you configure your Digg settings, and what actions you take on Digg. This disclosure is necessary for the performance of our contract with you and, where applicable, for our legitimate interests in operating and maintaining a social platform that enables user interaction.
 
-**Affiliates.** We may disclose your personal information to our subsidiaries and affiliates for purposes consistent with this Privacy Policy.
+**Affiliates.** We may disclose your personal information to our subsidiaries and affiliates for purposes consistent with this Privacy Policy. We disclose personal information to our affiliates where necessary for the performance of our contract with you or for our legitimate interests in operating, managing, and improving our business and services.
 
-**Service providers.** We may disclose your personal information to third party companies and individuals that provide services on our behalf or help us operate our services (such as lawyers, bankers, auditors, insurers, customer support, hosting, analytics, email delivery, marketing, and database management).
+**Service providers.** We may disclose your personal information to third party companies and individuals that provide services on our behalf or help us operate our services (such as lawyers, bankers, auditors, insurers, customer support, hosting, analytics, email delivery, marketing, and database management). These disclosures are necessary for the performance of our contract with you, for compliance with our legal obligations, and for our legitimate interests in operating, securing, and supporting our Services.
 
-**Third parties.** Third parties, such as advertising companies, data providers, for interest-based advertising and other marketing purposes, including those third parties’ own purposes. To learn about your choices, please see the “Limit online tracking” section below.
+**Third parties.** Third parties, such as advertising companies, data providers, for interest-based advertising and other marketing purposes, including those third parties’ own purposes. To learn about your choices, please see the “Limit online tracking” section below. Where required, we rely on your consent for these disclosures, including in connection with interest-based advertising; otherwise, we rely on our legitimate interests in promoting our Services.
 
-**Authorities and others.** We may disclose your personal information to law enforcement, government authorities, and private parties, as we believe in good faith to be necessary or appropriate for the compliance and protection purposes described above.
+**Authorities and others.** We may disclose your personal information to law enforcement, government authorities, and private parties, as we believe in good faith to be necessary or appropriate for the compliance and protection purposes described above. These disclosures are necessary for compliance with legal obligations to which we are subject and for our legitimate interests in establishing, exercising, or defending legal claims and protecting rights and safety.
 
-**Business transfers.** We may sell, transfer or otherwise share some or all of our business or assets, including your personal information, in connection with a business transaction (or potential business transaction) such as a corporate divestiture, merger, consolidation, acquisition, reorganization or sale of assets, or in the event of bankruptcy or dissolution. In such a case, we will make reasonable efforts to require the recipient to honor this Privacy Policy.
+**Business transfers.** We may sell, transfer or otherwise share some or all of our business or assets, including your personal information, in connection with a business transaction (or potential business transaction) such as a corporate divestiture, merger, consolidation, acquisition, reorganization or sale of assets, or in the event of bankruptcy or dissolution. In such a case, we will make reasonable efforts to require the recipient to honor this Privacy Policy. These disclosures are necessary for our legitimate interests in carrying out corporate transactions and business reorganizations and, where applicable, for compliance with legal obligations.
 
 **International Data Transfers**
 
 You will provide personal information directly to us in the United States. We may also transfer personal information to our affiliates and service providers in the United States and other jurisdictions. Please note that such jurisdictions may not provide the same protections as the data protection laws in your home country.
 
-When we engage in cross-border data transfers, we will ensure that relevant safeguards are in place to afford adequate protection for personal information and we will comply with applicable data protection laws, in particular by relying on an EU Commission or UK government adequacy decision or on contractual protections for the transfer of personal information. For more information about how we transfer personal information internationally, please contact us as set out in the “How to contact us” section below.
+When we engage in cross-border data transfers, we will ensure that relevant safeguards are in place to afford adequate protection for personal information and we will comply with applicable data protection laws, in particular by relying on an EU Commission or UK government adequacy decision, Standard Contractual Clauses or applicable UK transfer mechanisms for the transfer of personal information. For more information about how we transfer personal information internationally, please contact us as set out in the “How to contact us” section below.
 
 **Representatives for Data Protection Matters**
 
@@ -125,7 +127,7 @@ When we engage in cross-border data transfers, we will ensure that relevant safe
 
 **Your choices**
 
-**Account Deletion.** Should you ever decide to delete your account, you may do so by visiting your account settings page. If you delete your account, any association between your account and information stored by, or in connection with, Digg will no longer be accessible. However, given the nature of sharing using Digg, any public activity on your account prior to deletion will remain stored on our servers and will remain accessible to the public. Digg will remove the username associated with the deleted account to anonymize the link between the content and the original poster but will not anonymize personal information contained in the content itself. After you submit a request to delete your account, it may take up to 90 days for our purge script to complete deletion.
+**Account Deletion.** Should you ever decide to delete your account, you may do so by visiting your account settings page. If you delete your account, any association between your account and information stored by, or in connection with, Digg will no longer be accessible. Unless Digg is required to delete content under applicable law, given the nature of sharing using Digg, any public activity on your account prior to deletion will remain stored on our servers and will remain accessible to the public. Digg will remove the username associated with the deleted account to anonymize the link between the content and the original poster but will not anonymize personal information contained in the content itself unless required under applicable law. After you submit a request to delete your account, it may take up to 90 days for our purge script to complete deletion.
 
 **Accessing and Correcting Your Information.** You can access information associated with your account by logging into the web version of Digg, or through the Digg application. You can adjust settings and privacy preferences through your account settings.
 
@@ -135,10 +137,9 @@ When we engage in cross-border data transfers, we will ensure that relevant safe
 - **correct** incomplete or inaccurate data we hold about you
 - ask us to **erase** the personal information we hold about you
 - ask us to **restrict** our handling of your personal information
-- opt out of the **selling** of your personal information or **sharing** your information for interest-based advertising. By default, we do not sell or share your personal information.
-- opt out of **“profiling”** in connection with decisions that produce legal or similarly significant effects. By default, we do not engage in this kind of profiling.
+- opt out of the **selling** of your personal information or sharing your information for interest-based advertising. By default, we do not sell your personal information for monetary consideration.
 - receive any personal information we hold about you in a structured and commonly used **machine readable format** or have such personal information transmitted to another company
-- **object** to how we are using your personal information
+- **object** to how we are using or otherwise processing your personal information
 - **withdraw** your consent to us handling your personal information
 
 To make a request, please email us or write to us as provided in the “How to contact us” section below. If you are located in the EU or UK, you may also contact our data protection representatives as described in the 'Representatives for Data Protection Matters' section above. Please note that, prior to any response to the exercise of such rights, we may require you to verify your identity. Depending on where you reside, you may be entitled to empower an “authorized agent” to submit requests on your behalf. We will require authorized agents to confirm their identity and authority, in accordance with applicable laws. You are entitled to exercise the rights described above free from discrimination. In addition, we may have valid legal reasons to refuse your request, and will inform you if that is the case.
@@ -210,11 +211,11 @@ EU and UK residents may also contact our appointed representatives:
 
 Below is a high-level snapshot of how we collect, use, and disclose your personal information when you use the Service, but you need to read the entire Privacy Policy for complete information.
 
-| Data Categories Collected | How We Collect | Primary Purposes of Processing | Key Recipients/Disclosures | Can You Limit Sharing? |
-|---------------------------|----------------|--------------------------------|-----------------------------|-------------------------|
-| Identifiers, such as real name, alias, photo, unique personal identifier, online identifier, Internet Protocol address, email address, account name | When you visit or use our Service; from third-party sites or services; from other users | To provide our Service; to improve, monitor and personalize our Service; to communicate with you; for marketing and advertising | Service providers | No |
-| Internet or other electronic network activity information, including but not limited to browsing history and search history in our Service | When you visit or use our Service | To provide our Service; to improve, monitor and personalize our Service; to communicate with you | Service providers | No |
-| Commercial information, including but not limited to records of personal property, products or services purchased, obtained or considered | When you visit or use our Services | To provide our Services; to improve, monitor, and personalize our Service; communicate with you; for marketing and advertising | Service providers | No |
-| Personal information categories listed in the California Customer Records Statute (e.g., name, contact details) | When you visit or use our Services; from third-party sites and services; from other users | To provide our Service; to improve, monitor, and personalize our Services; communicate with you; for marketing and advertising | Service providers | No |
+| Data Categories Collected | How We Collect | Primary Purposes of Processing | Key Recipients/Disclosures |
+|---------------------------|----------------|--------------------------------|----------------------------|
+| Identifiers, such as real name, alias, photo, unique personal identifier, online identifier, Internet Protocol address, email address, account name | When you visit or use our Service; from third-party sites or services; from other users | To provide our Service; to improve, monitor and personalize our Service; to communicate with you; for marketing and advertising | Service providers |
+| Internet or other electronic network activity information, including but not limited to browsing history and search history in our Service | When you visit or use our Service | To provide our Service; to improve, monitor and personalize our Service; to communicate with you | Service providers |
+| Commercial information, including but not limited to records of personal property, products or services purchased, obtained or considered | When you visit or use our Services | To provide our Services; to improve, monitor, and personalize our Service; communicate with you; for marketing and advertising | Service providers |
+| Personal information categories listed in the California Customer Records Statute (e.g., name, contact details) | When you visit or use our Services; from third-party sites and services; from other users | To provide our Service; to improve, monitor, and personalize our Services; communicate with you; for marketing and advertising | Service providers |
 
 As described further in our Privacy Policy, we may disclose all categories of personal information with our service providers, affiliates, and professional advisors for the purposes described in the Privacy Policy. We also may disclose personal information with authorities and others for legal and compliance purposes, and with business transferees in the context of an acquisition or the sale of our business or another corporate transaction.

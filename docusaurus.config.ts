@@ -37,7 +37,11 @@ const config: Config = {
     [
       '@docusaurus/plugin-client-redirects',
       {
-        redirects: [{ from: '/rules', to: '/guidelines' }],
+        redirects: [
+          { from: '/rules', to: '/guidelines' },
+          { from: '/libraries', to: '/category/libraries' },
+          { from: '/licenses', to: '/category/libraries' }
+        ],
       },
     ],
   ],

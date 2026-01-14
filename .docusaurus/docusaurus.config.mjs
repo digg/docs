@@ -30,6 +30,14 @@ export default {
           {
             "from": "/rules",
             "to": "/guidelines"
+          },
+          {
+            "from": "/libraries",
+            "to": "/category/libraries"
+          },
+          {
+            "from": "/licenses",
+            "to": "/category/libraries"
           }
         ]
       }
