@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "Welcome to Digg Docs!",
-  "description": "Your source for Digg rules, terms of service, our privacy policy, and more.",
+  "description": "Your source for Digg guidelines, terms of service, our privacy policy, and more.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",
