@@ -35,6 +35,8 @@ Each community on Digg can define its own guidelines in addition to these site-w
 ### 7. Engage Genuinely
 Digg works best when people participate in good faith. Share things you actually care about, join other people’s posts, and let your contributions earn attention naturally. Don't spam, artificially manipulate votes or engagement metrics, deliberately disrupt communities or create accounts just to game visibility or evade moderation.​
 
+This also includes posting content primarily designed to drive external traffic, manipulate search rankings, or promote services through repetitive, templated, or low-value posts. Content should exist to contribute meaningful discussion, not to exploit visibility or marketing opportunities.
+
 ### 8. Protect Privacy
 Sharing personal information can cause real‑world harm that’s impossible to undo. Never share someone else's personal information without permission or post intimate media without explicit consent. Don't use private information to harass or expose others.
 
