@@ -56,4 +56,4 @@ We use a tiered approach to user conduct violations based on severity and freque
 
 Digg is working on a fully transparent moderation system that will be an industry first and visible to all, eliminating all shadow banning. We believe in transparency and accountability in content moderation, allowing users to understand exactly what actions were taken and why.
 
-If you believe any of your content was removed unnecessarily, please feel free to reach out to help@digg.com with a link to the post or comment in question.
+If you believe any of your content was removed unnecessarily, please feel free to reach out to [help@digg.com](mailto:help@digg.com?subject=Content%20or%20Account%20Removal) with a link to the post or comment in question.
