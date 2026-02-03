@@ -29,6 +29,8 @@ Digg is not a place for sexually explicit content. That includes graphic sexual 
 ### 5. Be Yourself
 Trust requires authenticity; deception undermines our community's foundation. You don't need to use your real name, but don't impersonate others or misrepresent yourself in misleading ways.
 
+We may allow users to have multiple personas tied to a single account in the future so they can participate in one community under one identity while choosing a different identity in more personal or sensitive spaces (or just to keep work and personal interests separate). In the meantime, we prefer users to have one account.
+
 ### 6. Honor Community Guidelines
 Each community on Digg can define its own guidelines in addition to these site-wide guidelines. When you join or participate in a community, you agree to respect that community’s norms and culture. Follow the specific guidelines set by each community, even if they differ from other spaces or your usual online behavior.
 
