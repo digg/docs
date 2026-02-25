@@ -6,7 +6,7 @@ slug: /terms
 
 # Terms of Service
 
-**Date of Last Revision:** January 13, 2025
+**Date of Last Revision:** February 24, 2026
 
 **Acceptance of These Terms of Service**
 
@@ -147,12 +147,25 @@ identification of the content that is claimed to be infringing or to be the subj
 
 **Counter-Notice:** If you believe that your User Content that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owner’s agent, or pursuant to the law, to upload and use the content in your User Content, you may send a written counter-notice containing the following information to the Copyright Agent: 
 - your physical or electronic signature; 
-- identification of the content that has been removed or to which access has been disabled and the location at which the content appeared before it was removed or disabled; 
-- a statement by you, made under penalty of perjury, that you have a good faith belief that the content was removed or disabled as a result of mistake or a misidentification of the content to be removed or disabled; and 
-- your name, address, telephone number, and email address, a statement that you consent to the jurisdiction of the federal court located within the State of California and a statement that you will accept service of process from the person who provided notification of the alleged infringement. 
-If a counter-notice is received by the Copyright Agent, Digg will send a copy of the counter-notice to the original complaining party informing them that Digg may replace the removed content or cease disabling it within ten (10) business days. Unless the owner of the applicable copyrighted work or other intellectual property files an action seeking a court order against Digg or the user, the removed content may be replaced, or access to it restored, within ten (10) to fourteen (14) business days or more after receipt of the counter-notice, at our sole discretion.
+- identification of the content that has been removed or to which access has been
+disabled and the location at which the content appeared before it was removed
+or disabled;
+- a statement by you, made under penalty of perjury, that you have a good faith
+belief that the content was removed or disabled as a result of mistake or a
+misidentification of the content to be removed or disabled; and 
+- your name, address, telephone number, and email address, a statement that you
+consent to the jurisdiction of the federal court located within the State of
+California and a statement that you will accept service of process from the
+person who provided notification of the alleged infringement. If a counter-notice
+is received by the Copyright Agent, Digg will send a copy of the counter-notice to
+the original complaining party informing them that Digg may replace the removed
+content or cease disabling it within ten (10) business days. Unless the owner of
+the applicable copyrighted work or other intellectual property files an action
+seeking a court order against Digg or the user, the removed content may be
+replaced, or access to it restored, within ten (10) to fourteen (14) business days
+or more after receipt of the counter-notice, at our sole discretion.
 
-**Repeat Infringer Policy:** In accordance with the DMCA and other applicable law, Digg has adopted a policy of terminating, in appropriate circumstances and at Digg’s sole discretion, the accounts of users who are deemed to be repeat infringers. Digg may also at its sole discretion limit access to the Service and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
+**Repeat Infringer Policy:** In accordance with the DMCA and other applicable law,Digg has adopted a policy of terminating, in appropriate circumstances and at Digg’s sole discretion, the accounts of users who are deemed to be repeat infringers. A “strike” is a valid notice of claimed copyright infringement received by Digg. Users who receive three (3) strikes may be deemed repeat infringers, though Digg retains sole discretion to determine whether a strike has occurred and whether termination or other action is appropriate. Digg may also at, in its sole discretion, limit access to the Service and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
 
 **Third-Party Services and Websites**
 
